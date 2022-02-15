@@ -30,6 +30,7 @@ ol, ul {
   line-height: 24px;
   cursor: pointer;
   vertical-align: bottom;
+  width: 100px;
 }
 
 .btn:hover {
